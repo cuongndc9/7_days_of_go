@@ -26,4 +26,4 @@ curl -XPOST -d '{"query": "{ hello }"}' localhost:8080/graphql
 
 ## license
 
-MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
+MIT © [Cuong Tran](https://github.com/103cuong)
